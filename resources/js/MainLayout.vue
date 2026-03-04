@@ -79,8 +79,8 @@
       <div class="max-w-5xl mx-auto px-6 py-8 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-gray-400">
         <p>© {{ year }} — Tous droits réservés</p>
         <div class="flex items-center gap-6">
-          <a href="https://github.com" target="_blank" class="hover:text-gray-900 dark:hover:text-gray-100 transition-colors">GitHub</a>
-          <a href="https://linkedin.com" target="_blank" class="hover:text-gray-900 dark:hover:text-gray-100 transition-colors">LinkedIn</a>
+          <a href="https://github.com/diengibrahima" target="_blank" class="hover:text-gray-900 dark:hover:text-gray-100 transition-colors">GitHub</a>
+          <a href='https://www.linkedin.com/in/ibrahima-diaw-dieng/'  target="_blank" class="hover:text-gray-900 dark:hover:text-gray-100 transition-colors">LinkedIn</a>
           <a href="mailto:contact@monsite.com" class="hover:text-gray-900 dark:hover:text-gray-100 transition-colors">Email</a>
         </div>
       </div>

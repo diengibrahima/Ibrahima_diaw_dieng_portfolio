@@ -164,9 +164,9 @@ import PortfolioLayout from '@/layouts/PortfolioLayout.vue'
 defineOptions({ layout: PortfolioLayout })
 
 const contactInfos = [
-  { icon: '📧', label: 'Email',        value: 'ibrahima@example.com',      href: 'mailto:ibrahima@example.com'      },
-  { icon: '💼', label: 'LinkedIn',     value: 'linkedin.com/in/ibrahima',  href: 'https://linkedin.com/in/ibrahima' },
-  { icon: '🐙', label: 'GitHub',       value: 'github.com/ibrahima',       href: 'https://github.com/ibrahima'      },
+  { icon: '📧', label: 'Email',        value: 'idiaw.dieng@gmail.com',      href: 'mailto:idiaw.dieng@gmail.com'      },
+  { icon: '💼', label: 'LinkedIn',     value: 'linkedin.com/in/ibrahima',  href: 'https://www.linkedin.com/in/ibrahima-diaw-dieng/' },
+  { icon: '🐙', label: 'GitHub',       value: 'https://github.com/diengibrahima',       href: 'https://github.com/diengibrahima'      },
   { icon: '📍', label: 'Localisation', value: 'Sénégal — Remote OK',       href: '#'                                },
 ]
 

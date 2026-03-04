@@ -122,9 +122,9 @@ const navLinks = [
 ]
 
 const socials = [
-  { label: 'GitHub',   href: 'https://github.com/ibrahima' },
-  { label: 'LinkedIn', href: 'https://linkedin.com/in/ibrahima' },
-  { label: 'Email',    href: 'mailto:contact@ibrahima.dev' },
+  { label: 'GitHub',   href: 'https://github.com/diengibrahima' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/ibrahima-diaw-dieng/' },
+  { label: 'Email',    href: 'mailto:idiaw.dieng@gmail.com' },
 ]
 
 // ── Lien actif ─────────────────────────────────────────────
